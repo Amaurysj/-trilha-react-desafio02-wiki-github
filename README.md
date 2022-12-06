@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="./src/assets/capa.png" alt="Capa" title="Capa">
-</h1>
-
 # GitHub Wiki
 
 Neste projeto, criamos uma Wiki para salvar alguns repositórios. Para isso, usamos o consumo da API do GitHub para listar os conjuntos de interesse.
